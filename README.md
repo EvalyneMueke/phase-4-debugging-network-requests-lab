@@ -63,11 +63,14 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+  `Toys was unrecognized so i corrected the spelling`
 
 - Update the number of likes for a toy
 
   - How I debugged:
+    `I added render json: to the update action`
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  `There was a error that the destroy route was missing so i added destroy to the resourses in the routes`
